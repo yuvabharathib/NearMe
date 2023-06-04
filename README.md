@@ -73,10 +73,11 @@ Execute the programs and publish them.
 ## OUTPUT
 ![image](https://github.com/yuvabharathib/NearMe/assets/113497404/4d5257fa-832c-4d6e-af7f-51dd25b98a35)
 
-
+![image](https://github.com/yuvabharathib/NearMe/assets/113497404/bb6bf583-7c60-462e-bc0b-2345bbe4a3ba)
 
 ## HTML VALIDATOR
-![image](https://github.com/yuvabharathib/NearMe/assets/113497404/bb6bf583-7c60-462e-bc0b-2345bbe4a3ba)
+![image](https://github.com/yuvabharathib/NearMe/assets/113497404/6e44fc30-f69c-44e5-ae92-aa79805ac36c)
+
 
 
 ## RESULT
